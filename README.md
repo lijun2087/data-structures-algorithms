@@ -21,8 +21,8 @@
 不需要 npm install，不需要打包。
 
 ```bash
-git clone https://github.com/<your-name>/<your-repo>.git
-cd <your-repo>/site
+git clone https://github.com/lijun2087/data-structures-algorithms.git
+cd data-structures-algorithms/site
 ```
 
 然后任选一种方式：
